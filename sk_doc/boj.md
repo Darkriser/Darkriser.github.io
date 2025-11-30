@@ -231,7 +231,7 @@ Akonáhle sa niektoré moduly poškodia, biely pásik sa začne zmenšovať. Pri
 
 Na náhodne vybrané stanice hra generuje tzv. nájazdy, čo bývajú väčšinou desiatky Impov, ktorí sa pomaly presúvajú k stanici. Takáto skupina je pomerne ľahký cieľ a možnosť zarobiť nejakú biomasu.
 
-1. Nájdi stanicu, na ktorú sa chystá nájazd pozostávajúci **iba** z Impov (ak si člen v zóne, máš prehľad na ľavej strane obrazovky):
+1. Nájdi stanicu, na ktorú sa chystá nájazd pozostávajúci **iba** z Impov (ak si člen v zóne, máš prehľad na pravej strane obrazovky):
 
    ![](../assets/images/boj_images/2025-11-28-16-18-04.png)
 

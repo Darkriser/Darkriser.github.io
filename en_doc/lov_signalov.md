@@ -44,7 +44,7 @@ This means that a signal hunting ship must be *lightweight*, have *enough energy
 
 - **Warps:**  
   The lightest you have available (ideally Scioplex Terminal MK3) and only as many as needed to enable warp on the ship.  
-  Usually 1–2 warp modules are enough. I recommend checking [Source](https://source.outspacegame.com/) and comparing the mass of warp modules you have available so you can pick the lightest ones.
+  Usually 1–2 warp modules are enough. I recommend checking [Source](https://source.outspacegame.com/en/spacecraft/modules/list/&tag=warp) and comparing the mass of warp modules you have available so you can pick the lightest ones.
 
 - **Batteries:**  
   One, ideally two TransPlan battery modules (they are light). If you don’t have these modules yet, QFE modules will do as well (but they are heavier).

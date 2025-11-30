@@ -230,7 +230,7 @@ Once some modules get damaged, the white bar starts to shrink. With more damage,
 
 The game generates so-called raids on randomly selected stations – usually groups of dozens of Imps slowly moving towards the station. Such a group is a relatively easy target and an opportunity to earn some biomass.
 
-1. Find a station that’s about to be attacked by a raid consisting of **only** Imps (if you’re a member in the zone, you’ll see this on the left side of the screen):
+1. Find a station that’s about to be attacked by a raid consisting of **only** Imps (if you’re a member in the zone, you’ll see this on the right side of the screen):
 
    ![](../assets/images/boj_images/2025-11-28-16-18-04.png)
 

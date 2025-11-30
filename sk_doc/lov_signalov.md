@@ -44,7 +44,7 @@ Z toho vyplýva, že loď na lov signálov musí byť *ľahká*, mať *dostatok 
 
 - **Warpy:**  
   Najľahšie, ktoré máte k dispozícii (ideálne Scioplex Terminal MK3) a len v takom počte, aby ste s loďou dokázali aktivovať warp.  
-  Obyčajne sú 1–2 warp moduly dostačujúce. Odporúčam pozrieť [Source](https://source.outspacegame.com/) a porovnať hmotnosti warp modulov, ktoré máte k dispozícii, aby ste vedeli vybrať tie najľahšie.
+  Obyčajne sú 1–2 warp moduly dostačujúce. Odporúčam pozrieť [Source](https://source.outspacegame.com/cs/kosmicka-lod/moduly/list/&tag=warp) a porovnať hmotnosti warp modulov, ktoré máte k dispozícii, aby ste vedeli vybrať tie najľahšie.
 
 - **Batérie:**  
   Jeden, ideálne dva batériové moduly TransPlan (sú ľahké). Ak ešte tieto moduly nemáte, postačia aj moduly od QFE (sú ale ťažšie).
